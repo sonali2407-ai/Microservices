@@ -17,7 +17,7 @@ version = "v1",
 contact=@Contact(name="Sonali to reach out in case of documentation issue"),
 		license=@License(
 				name="Apache 2.0",
-				url="http"
+				url="https"
 		)
 ))// To do documentation
 public class AccountsApplication {
